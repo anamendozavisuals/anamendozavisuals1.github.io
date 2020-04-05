@@ -2148,6 +2148,9 @@ input, select, textarea {
 		}
 /* Portfolio section styles
 /* ========================================== */
+
+/* Portfolio section styles
+/* ========================================== */
 #portfolio {
   text-align: center;
   padding-top: 3rem;
@@ -2162,7 +2165,6 @@ input, select, textarea {
   position: relative;
   overflow: hidden;
   margin: 0;
-  border: solid 1px rgb(204, 204, 204);
 } 
 
 #portfolio .portfolio-thumb .portfolio-overlay {
@@ -2271,7 +2273,7 @@ input, select, textarea {
 /* single project section styles
 /* ========================================== */
 #single-project {
-  padding-top: 2rem;
+  padding-top: 4rem;
   padding-bottom: 6rem;
 }
 
@@ -2282,7 +2284,6 @@ input, select, textarea {
 #single-project img {
   padding-top: 14px;
 }
-
 /* about section styles
 /* ========================================== */
 #about {
