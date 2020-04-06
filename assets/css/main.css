@@ -786,10 +786,10 @@ input, select, textarea {
 
 .iso-box {
     position: relative;
-    min-height: 100px;
+    min-height: 50px;
     float: left;
     overflow: hidden;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
 }
 
 .iso-box > a {
