@@ -689,6 +689,7 @@ input, select, textarea {
 
 #portfolio img {
   width: 100%;
+
 }
 
 #portfolio .portfolio-thumb {
@@ -735,6 +736,7 @@ input, select, textarea {
 }
 
 /*filter css*/
+
 .filter-wrapper {
     width: 100%;
     margin-bottom: 32px;
@@ -769,6 +771,9 @@ input, select, textarea {
 }
 
 /*isotope box css*/
+.clearfix {
+  overflow: auto;
+}
 .iso-box-section {
     width: 100%;
 }
