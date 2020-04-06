@@ -736,7 +736,9 @@ input, select, textarea {
 }
 
 /*filter css*/
-
+.clearfix {
+  overflow: auto;
+}
 .filter-wrapper {
     width: 100%;
     margin-bottom: 32px;
@@ -771,9 +773,6 @@ input, select, textarea {
 }
 
 /*isotope box css*/
-.clearfix {
-  overflow: auto;
-}
 .iso-box-section {
     width: 100%;
 }
