@@ -781,15 +781,15 @@ input, select, textarea {
     width: 100%;
     padding: 0;
     clear: both;
-    position: relative;
+    position: absolute;
 }
 
 .iso-box {
-    position: relative;
+    position: absolute;
     min-height: 50px;
     float: left;
     overflow: hidden;
-    margin-bottom: 5px;
+    margin-bottom: 25px;
 }
 
 .iso-box > a {
