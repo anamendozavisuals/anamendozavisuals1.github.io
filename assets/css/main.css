@@ -787,7 +787,7 @@ input, select, textarea {
 .iso-box {
     position: relative;
     min-height: 50px;
-    float: center;
+    float: none;
     overflow: hidden;
     margin-bottom: 25px;
 }
