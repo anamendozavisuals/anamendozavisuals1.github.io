@@ -773,10 +773,6 @@ input, select, textarea {
 }
 
 /*isotope box css*/
-div {
-  resize: both;
-  overflow: auto;
-}
 .iso-box-section {
     width: 100%;
 }
@@ -785,7 +781,7 @@ div {
     width: 100%;
     padding: 0;
     clear: both;
-    position: relative;
+    position: absolute;
 }
 
 .iso-box {
